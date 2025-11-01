@@ -21,8 +21,7 @@
 
 | **Recipe List** | **Recipe Detail** |
 |------------------|-------------------|
-| ![List](C:\Users\LENOVO\Desktop\Recipe Explorer\recipe-explorer\assets\Recipe List.jpg) | ![Detail](C:\Users\LENOVO\Desktop\Recipe Explorer\recipe-explorer\assets\recipe details.jpg) |
-
+| ![Recipe List](https://github.com/it22242204/recipe-explorer/raw/main/assets/Recipe%20List.jpg) | ![Recipe Detail](https://github.com/it22242204/recipe-explorer/raw/main/assets/recipe%20details.jpg) |
 ---
 
 ## Tech Stack
